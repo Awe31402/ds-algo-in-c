@@ -1,5 +1,5 @@
 CC     := gcc
-CFLAGS := -std=c17 -Wall -Wextra -Werror -g -fsanitize=address,undefined
+CFLAGS := -std=c17 -Wall -Wextra -Werror -g -fsanitize=address,undefined -fno-sanitize-recover=all
 BUILD  := build
 
 # 有 test_*.c 的主題資料夾，例如 13-heap

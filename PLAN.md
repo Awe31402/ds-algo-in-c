@@ -13,11 +13,11 @@
 | 撰寫 | Claude 寫筆記與程式，使用者審閱修改 |
 | 語言 | 繁體中文，關鍵術語附英文 |
 | 格式 | Markdown，git 版控 |
-| C | C17、`int` 元素、`gcc -Wall -Wextra -Werror -fsanitize=address,undefined`、`assert` 測試、Makefile |
+| C | C17、`int` 元素、`gcc -Wall -Wextra -Werror -fsanitize=address,undefined -fno-sanitize-recover=all`、`assert` 測試、Makefile |
 | 紅黑樹／B-Tree | 插入、刪除都實作 |
 | NP | 只有筆記，無程式 |
 | Segment Tree | 兩書皆無，出處標「無」 |
-| LeetCode | **每個主題**都挑 3–5 題對應的免費題，附 C 解法（含本機測試）與說明；題號一律上網核對。純觀念主題（01 複雜度、34 NP）若找不到合適題目，就在筆記裡說明原因並略過 |
+| LeetCode | **每個主題**都挑 3–5 題對應的免費題，附 C 解法（含本機測試）與說明；題號一律上網核對。純觀念主題（例如 34 NP）若找不到合適題目，就在筆記裡說明原因並略過 |
 | 交付 | 分批；每批使用者審閱通過後才 commit |
 
 ## 目錄結構

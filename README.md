@@ -14,15 +14,15 @@ make test T=13-heap    # 只跑一個主題
 make list              # 列出有測試的主題
 make clean
 ```
-編譯參數：C17、`-Wall -Wextra -Werror`、AddressSanitizer + UBSan。
+編譯參數：C17、`-Wall -Wextra -Werror`、AddressSanitizer + UBSan（遇到錯誤直接讓測試失敗）。
 
 ## 目錄與進度
 ✅ 完成 · 🚧 進行中 · ⬜ 未開始
 
 | # | 主題 | 批次 | 狀態 |
 |---|---|---|---|
-| 01 | 複雜度 Big-O/Ω/Θ | 1 | ⬜ |
-| 02 | 遞迴 | 1 | ⬜ |
+| 01 | [複雜度 Big-O/Ω/Θ](01-complexity/) | 1 | ✅ |
+| 02 | [遞迴 Recursion](02-recursion/) | 1 | ✅ |
 | 03 | 陣列 Array | 2 | ⬜ |
 | 04 | 字串 String | 2 | ⬜ |
 | 05 | Linked List | 2 | ⬜ |
