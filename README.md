@@ -47,10 +47,10 @@ make clean
 | 24 | [Dijkstra](24-dijkstra/) | 6 | ✅ |
 | 25 | [Bellman-Ford](25-bellman-ford/) | 6 | ✅ |
 | 26 | [Floyd-Warshall](26-floyd-warshall/) | 6 | ✅ |
-| 27 | Divide & Conquer | 7 | ⬜ |
-| 28 | 動態規劃 DP | 7 | ⬜ |
-| 29 | Greedy | 7 | ⬜ |
-| 30 | KMP | 7 | ⬜ |
+| 27 | [Divide & Conquer](27-divide-and-conquer/) | 7 | ✅ |
+| 28 | [動態規劃 DP](28-dynamic-programming/) | 7 | ✅ |
+| 29 | [Greedy](29-greedy/) | 7 | ✅ |
+| 30 | [KMP](30-kmp/) | 7 | ✅ |
 | 31 | B-Tree | 8 | ⬜ |
 | 32 | Segment Tree | 8 | ⬜ |
 | 33 | Max Flow (Edmonds-Karp) | 8 | ⬜ |
