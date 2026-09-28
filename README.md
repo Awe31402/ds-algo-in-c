@@ -35,11 +35,11 @@ make clean
 | 12 | [Quick Sort](12-quick-sort/) | 4 | ✅ |
 | 13 | [Heap / Priority Queue / Heapsort](13-heap/) | 0 | ✅ |
 | 14 | [Counting / Radix Sort](14-linear-sort/) | 4 | ✅ |
-| 15 | Binary Tree 走訪 | 5 | ⬜ |
-| 16 | BST | 5 | ⬜ |
-| 17 | AVL Tree | 5 | ⬜ |
-| 18 | 紅黑樹 Red-Black Tree | 5 | ⬜ |
-| 19 | Trie | 5 | ⬜ |
+| 15 | [Binary Tree 走訪](15-binary-tree/) | 5 | ✅ |
+| 16 | [BST](16-bst/) | 5 | ✅ |
+| 17 | [AVL Tree](17-avl-tree/) | 5 | ✅ |
+| 18 | [紅黑樹 Red-Black Tree](18-red-black-tree/) | 5 | ✅ |
+| 19 | [Trie](19-trie/) | 5 | ✅ |
 | 20 | BFS / DFS | 6 | ⬜ |
 | 21 | 拓撲排序 Topological Sort | 6 | ⬜ |
 | 22 | Union-Find | 6 | ⬜ |

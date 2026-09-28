@@ -67,7 +67,7 @@ tools/
 | 16 | BST | 12 | 10 |
 | 17 | AVL Tree | 13 問題 | 10 |
 | 18 | 紅黑樹 Red-Black Tree | 13 | 10 |
-| 19 | Trie | — | 11 |
+| 19 | Trie | 問題 12-2 | 11 |
 | 20 | BFS / DFS | 20 | 13 |
 | 21 | 拓撲排序 Topological Sort | 20.4 | 13 |
 | 22 | Union-Find | 19 | — |
