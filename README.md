@@ -40,13 +40,13 @@ make clean
 | 17 | [AVL Tree](17-avl-tree/) | 5 | ✅ |
 | 18 | [紅黑樹 Red-Black Tree](18-red-black-tree/) | 5 | ✅ |
 | 19 | [Trie](19-trie/) | 5 | ✅ |
-| 20 | BFS / DFS | 6 | ⬜ |
-| 21 | 拓撲排序 Topological Sort | 6 | ⬜ |
-| 22 | Union-Find | 6 | ⬜ |
-| 23 | MST (Kruskal / Prim) | 6 | ⬜ |
-| 24 | Dijkstra | 6 | ⬜ |
-| 25 | Bellman-Ford | 6 | ⬜ |
-| 26 | Floyd-Warshall | 6 | ⬜ |
+| 20 | [BFS / DFS](20-bfs-dfs/) | 6 | ✅ |
+| 21 | [拓撲排序 Topological Sort](21-topological-sort/) | 6 | ✅ |
+| 22 | [Union-Find](22-union-find/) | 6 | ✅ |
+| 23 | [MST (Kruskal / Prim)](23-mst/) | 6 | ✅ |
+| 24 | [Dijkstra](24-dijkstra/) | 6 | ✅ |
+| 25 | [Bellman-Ford](25-bellman-ford/) | 6 | ✅ |
+| 26 | [Floyd-Warshall](26-floyd-warshall/) | 6 | ✅ |
 | 27 | Divide & Conquer | 7 | ⬜ |
 | 28 | 動態規劃 DP | 7 | ⬜ |
 | 29 | Greedy | 7 | ⬜ |
