@@ -51,7 +51,7 @@ make clean
 | 28 | [動態規劃 DP](28-dynamic-programming/) | 7 | ✅ |
 | 29 | [Greedy](29-greedy/) | 7 | ✅ |
 | 30 | [KMP](30-kmp/) | 7 | ✅ |
-| 31 | B-Tree | 8 | ⬜ |
-| 32 | Segment Tree | 8 | ⬜ |
-| 33 | Max Flow (Edmonds-Karp) | 8 | ⬜ |
-| 34 | NP 觀念 | 8 | ⬜ |
+| 31 | [B-Tree](31-b-tree/) | 8 | ✅ |
+| 32 | [Segment Tree](32-segment-tree/) | 8 | ✅ |
+| 33 | [Max Flow (Edmonds-Karp)](33-max-flow/) | 8 | ✅ |
+| 34 | [NP 觀念](34-np/) | 8 | ✅ |
