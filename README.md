@@ -23,11 +23,11 @@ make clean
 |---|---|---|---|
 | 01 | [複雜度 Big-O/Ω/Θ](01-complexity/) | 1 | ✅ |
 | 02 | [遞迴 Recursion](02-recursion/) | 1 | ✅ |
-| 03 | 陣列 Array | 2 | ⬜ |
-| 04 | 字串 String | 2 | ⬜ |
-| 05 | Linked List | 2 | ⬜ |
-| 06 | Stack | 2 | ⬜ |
-| 07 | Queue / Deque | 2 | ⬜ |
+| 03 | [陣列 Array](03-array/) | 2 | ✅ |
+| 04 | [字串 String](04-string/) | 2 | ✅ |
+| 05 | [Linked List](05-linked-list/) | 2 | ✅ |
+| 06 | [Stack](06-stack/) | 2 | ✅ |
+| 07 | [Queue / Deque](07-queue/) | 2 | ✅ |
 | 08 | Hash Table | 3 | ⬜ |
 | 09 | Binary Search | 3 | ⬜ |
 | 10 | Insertion Sort | 4 | ⬜ |
