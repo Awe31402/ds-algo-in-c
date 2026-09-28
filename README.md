@@ -30,11 +30,11 @@ make clean
 | 07 | [Queue / Deque](07-queue/) | 2 | ✅ |
 | 08 | [Hash Table](08-hash-table/) | 3 | ✅ |
 | 09 | [Binary Search](09-binary-search/) | 3 | ✅ |
-| 10 | Insertion Sort | 4 | ⬜ |
-| 11 | Merge Sort | 4 | ⬜ |
-| 12 | Quick Sort | 4 | ⬜ |
+| 10 | [Insertion Sort](10-insertion-sort/) | 4 | ✅ |
+| 11 | [Merge Sort](11-merge-sort/) | 4 | ✅ |
+| 12 | [Quick Sort](12-quick-sort/) | 4 | ✅ |
 | 13 | [Heap / Priority Queue / Heapsort](13-heap/) | 0 | ✅ |
-| 14 | Counting / Radix Sort | 4 | ⬜ |
+| 14 | [Counting / Radix Sort](14-linear-sort/) | 4 | ✅ |
 | 15 | Binary Tree 走訪 | 5 | ⬜ |
 | 16 | BST | 5 | ⬜ |
 | 17 | AVL Tree | 5 | ⬜ |
