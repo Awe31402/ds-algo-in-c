@@ -63,11 +63,15 @@ pop：拿走根，把最後一個搬到根，再往下沉
 8. C 標準函式庫沒有 heap，面試時要能自己寫出 sift up／sift down。
 
 ## 練習題（LeetCode）
-- 215 · Kth Largest Element in an Array
-- 703 · Kth Largest Element in a Stream
-- 347 · Top K Frequent Elements
-- 23 · Merge k Sorted Lists
-- 295 · Find Median from Data Stream
+| # | 題目 | 難度 |
+|---|---|---|
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |
+
+解法與說明：[leetcode/README.md](leetcode/README.md)
 
 ## 程式
 | 檔案 | 內容 |

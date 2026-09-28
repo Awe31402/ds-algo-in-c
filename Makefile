@@ -16,6 +16,11 @@ test:
 		$(CC) $(CFLAGS) -I$$t $$t/*.c -o $(BUILD)/$$t/test; \
 		echo "== $$t"; \
 		./$(BUILD)/$$t/test; \
+		for f in $$(ls $$t/leetcode/*.c 2>/dev/null); do \
+			b=$(BUILD)/$$t/$$(basename $$f .c); \
+			$(CC) $(CFLAGS) $$f -o $$b; \
+			./$$b; \
+		done; \
 	done
 
 list:

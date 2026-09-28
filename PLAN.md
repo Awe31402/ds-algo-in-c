@@ -17,6 +17,7 @@
 | 紅黑樹／B-Tree | 插入、刪除都實作 |
 | NP | 只有筆記，無程式 |
 | Segment Tree | 兩書皆無，出處標「無」 |
+| LeetCode | **每個主題**都挑 3–5 題對應的免費題，附 C 解法（含本機測試）與說明；題號一律上網核對。純觀念主題（01 複雜度、34 NP）若找不到合適題目，就在筆記裡說明原因並略過 |
 | 交付 | 分批；每批使用者審閱通過後才 commit |
 
 ## 目錄結構
@@ -28,6 +29,11 @@ ds-algo-c/
     README.md         # 筆記
     topic.h  topic.c  # 實作
     test_topic.c      # 測試
+    leetcode/
+      README.md       # 每題：題意、思路、複雜度、其他解法、陷阱
+      NNNN-slug.c     # 單檔解法 + 本機測試（make test 會一起跑）
+tools/
+  lc_check.py         # 核對 LeetCode 題號：python3 tools/lc_check.py 215 703
 ```
 
 ## 筆記模板（每個主題）
@@ -35,7 +41,9 @@ ds-algo-c/
 2. ASCII 圖示
 3. 操作複雜度表
 4. 面試陷阱／常考點
-5. 練習題（LeetCode 題號 3–5 題，不附解答）
+5. 練習題（LeetCode 3–5 題）：表格列題號、題名連結、難度，由易到難；只選免費題；每題都對照 LeetCode 官方題目清單核對（`tools/lc_check.py`）
+   - 解法放 `leetcode/NNNN-slug.c`：單檔、LeetCode 原簽名，「提交範圍」可直接貼上，下方 `main` 為本機測試
+   - 說明放 `leetcode/README.md`：題意、思路、複雜度、其他解法、陷阱
 6. 出處（CLRS 第 X 章／Thareja 第 Y 章、頁碼）
 
 ## 主題與出處
